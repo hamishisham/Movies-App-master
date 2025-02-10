@@ -19,8 +19,9 @@ A simple **Movies App** built using **HTML**, **JavaScript**, and **Tailwind CSS
    git clone https://github.com/hamishisham/Movies-App-master.git
 
 ## 🌍 Live Demo
-Check out the live version here:
-👉 Movies App on GitHub Pages
+Check out the live version here:  
+👉 **[Movies App on GitHub Pages](https://hamishisham.github.io/Movies-App-master/)**
+
 
 ## 🌍 Live Demo
 Check out the live version here:  
