@@ -25,7 +25,7 @@ Check out the live version here:
 
 ## 🌍 Live Demo
 Check out the live version here:  
-👉 **[Movies App on GitHub Pages](http://hamishisham.github.io/Movies-App-master/)**
+👉 **[Movies App on GitHub Pages](https://hamishisham.github.io/Movies-App-master)**
 
 
 ## 📝 Future Improvements
